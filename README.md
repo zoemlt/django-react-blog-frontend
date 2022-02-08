@@ -1,3 +1,7 @@
+## Django (Django REST framework) and React blog project
+
+# This is the React frontend
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
